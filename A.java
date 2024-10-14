@@ -1,4 +1,3 @@
-
 // single inheritance
 class A {
     void showA() {
